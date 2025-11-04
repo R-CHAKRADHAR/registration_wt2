@@ -30,7 +30,7 @@
     }
     ?>
 
-    <a href="form.html"><button>Go Back</button></a>
+    <a href="index.html"><button>Go Back</button></a>
   </div>
 </body>
 </html>
